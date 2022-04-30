@@ -1,3 +1,7 @@
+<svelte:head>
+  <title>Paper effect</title>
+</svelte:head>
+
 <main>
   <div class="example">
     <div class="paper" />
