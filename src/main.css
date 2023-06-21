@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'Intelone Mono Font';
+  src: url('../public/font/intelone-mono-font-family-regular.otf') format('woff2');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'Intelone Mono Font';
+  src: url('../public/font/intelone-mono-font-family-bold.otf') format('woff2');
+  font-weight: bold;
+}
+
+body {
+  font-family: 'Intelone Mono Font', sans-serif;
+}
